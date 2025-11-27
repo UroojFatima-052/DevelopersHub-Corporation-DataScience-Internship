@@ -28,4 +28,3 @@ Estimate medical insurance charges (`charges` column) using a Linear Regression 
 - Scikit-Learn (Linear Regression + Error metrics)
 
 
-Task completed with corrected data loading and meaningful regression training, fulfilling internship expectations.
